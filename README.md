@@ -1,5 +1,14 @@
-# 💫 About Me:
-🚀 Bridging Data Science &amp; Software Engineering | Dual-Degree Student @ IIT Madras &amp; KIETAt 18, I am actively constructing a career at the intersection of Artificial Intelligence and Full-Stack Development. I am currently pursuing a unique academic path: a BTech in Computer Science at KIET Group of Institutions alongside a BS in Data Science from IIT Madras.👨‍💻 Technical Edge:I don't just learn theory; I build. My experience includes developing web-based, multi-threaded applications and crafting responsive front-end interfaces. I am proficient in conducting technical analysis and implementing solutions using Flask and SQLite.🛠️ Core Competencies:* Languages: Python, C, HTML, CSS * Tools &amp; Version Control: Git &amp; GitHub * Focus Areas: AIML, Data Science, Web Development 🌟 Beyond the Code:I believe in community and leadership. I actively serve as a Volunteer at TEDxKIET and a member of the Sundarbans House for the IITM BS Degree program.I am eager to connect with professionals in the Data Science and Software Development space.
+🚀 Bridging Data Science & Software Engineering | Dual-Degree Student @ IIT Madras & KIET
+
+At 18, I’m building a career at the intersection of AI and Full-Stack Development. I am pursuing a BTech in Computer Science at KIET alongside a BS in Data Science from IIT Madras, shaping a strong foundation in both theory and real-world application.
+
+👨‍💻 Technical Strengths: I focus on building practical solutions—developing web-based, multi-threaded applications, crafting responsive interfaces, and implementing projects using Flask and SQLite.
+
+🛠️ Core Skills: Python, C, HTML, CSS | Git & GitHub | AIML, Data Science, Web Development
+
+🌟 Beyond Coding: TEDxKIET Volunteer and active member of the Sundarbans House for the IITM BS program.
+
+Always eager to connect with professionals in Data Science and Software Development.
 
 
 ## 🌐 Socials:
