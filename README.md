@@ -1,5 +1,5 @@
 I’m a Computer Science and Data Science undergraduate at IIT Madras and KIET, focused on building real-world systems at the intersection of AI and software engineering.
- 
+
 I take a build-first approach—developing scalable, practical solutions beyond theory. My work spans backend systems, full-stack applications, and Generative AI.
  
 What I work with:
