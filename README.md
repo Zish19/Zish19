@@ -9,10 +9,8 @@ What I work with:
  • PyTorch, TensorFlow, Pandas
  • AWS, Cloud platforms
  
-Recently, I’ve been exploring LLM-based systems, building projects like Cloud Service Referee.
- 
-I also contribute as a TEDxKIET Volunteer and engage with the IIT Madras data science community.
- 
+Recently, I’ve been doing LLM-based systems, building projects like Cloud Service Referee.
+
 I’m open to opportunities in AI, cloud, and full-stack engineering.
 
 
