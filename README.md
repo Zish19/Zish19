@@ -87,21 +87,12 @@ Unreal Engine
 
 # 📊 Contribution Stats
 
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zish19\&theme=tokyonight)](https://github.com/Zish19)
-
 [![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zish19\&theme=tokyonight)](https://github.com/Zish19?tab=repositories)
 
 [![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zish19\&theme=tokyonight)](https://github.com/Zish19)
 
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zish19\&theme=tokyonight)](https://github.com/Zish19)
 
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zish19\&theme=tokyonight\&utcOffset=5.5)](https://github.com/Zish19)
-
 ---
 
-# 📈 Activity Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zish19\&theme=tokyo-night\&hide_border=true)](https://github.com/Zish19)
-
----
 
