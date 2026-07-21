@@ -1,7 +1,5 @@
-<h1 align="center">Shivam Kumar</h1>
-
 <p align="center">
-  Building software, AI systems, and open-source contributions.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Shivam%20Kumar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20software,%20AI%20systems%20and%20open-source&descSize=16&descAlignY=55" />
 </p>
 
 <p align="center">
@@ -110,4 +108,8 @@ My recent work includes LLM-powered applications, scalable APIs, real-time syste
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zish19&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zish19&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zish19&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 </p>
