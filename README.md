@@ -10,15 +10,15 @@
 
 ---
 
-I build practical software systems across backend engineering, cloud infrastructure, full-stack development, and AI.
+I'm a software engineer working across backend systems, cloud infrastructure, full-stack development, and applied AI.
 
-My recent work includes LLM-powered applications, scalable APIs, cloud-native deployments, and contributions to open-source projects including OpenSSL, Conan, and CyberChef.
+My recent work includes LLM-powered applications, scalable APIs, real-time systems, and cloud-native deployments. I actively contribute to open-source projects including Microsoft Terminal, Redux-Saga, Conan, and CyberChef.
 
 **Current interests**
 
 - Generative AI and LLM Systems
-- Backend Engineering
-- Cloud Computing
+- Backend Engineering & System Design
+- Cloud-Native Development
 - Full-Stack Development
 - Developer Tooling
 - Open Source Software
@@ -50,12 +50,14 @@ My recent work includes LLM-powered applications, scalable APIs, cloud-native de
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Backend & Frameworks**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -93,19 +95,10 @@ My recent work includes LLM-powered applications, scalable APIs, cloud-native de
 
 ## Open Source
 
-[![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat&logo=openssl&logoColor=white)](https://github.com/openssl/openssl)
+[![Microsoft Terminal](https://img.shields.io/badge/Microsoft_Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)](https://github.com/microsoft/terminal)
+[![Redux-Saga](https://img.shields.io/badge/Redux--Saga-86D46B?style=flat&logo=redux-saga&logoColor=999999)](https://github.com/redux-saga/redux-saga)
 [![Conan](https://img.shields.io/badge/Conan-6699CB?style=flat&logo=conan&logoColor=white)](https://github.com/conan-io/conan)
 [![CyberChef](https://img.shields.io/badge/CyberChef-4A90D9?style=flat&logo=github&logoColor=white)](https://github.com/gchq/CyberChef)
-
----
-
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zish19/Zish19/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zish19/Zish19/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zish19/Zish19/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
