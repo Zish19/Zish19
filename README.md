@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Shivam%20Kumar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20software,%20AI%20systems%20and%20open-source&descSize=16&descAlignY=55" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Engineering;Generative+AI;Cloud+Computing;Open+Source+Contributor;Full+Stack+Development" />
-</p>
-
----
-
-I'm a software engineer working across backend systems, cloud infrastructure, full-stack development, and applied AI.
-
 My recent work includes LLM-powered applications, scalable APIs, real-time systems, and cloud-native deployments. I actively contribute to open-source projects including Microsoft Terminal, Redux-Saga, Conan, and CyberChef.
 
 **Current interests**
@@ -105,11 +93,5 @@ My recent work includes LLM-powered applications, scalable APIs, real-time syste
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zish19&theme=tokyonight&hide_border=true)](https://github.com/Zish19)
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zish19&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zish19&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zish19&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 </p>
